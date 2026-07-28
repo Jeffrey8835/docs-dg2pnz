@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-sh7690.ridlerlandscapes.co.nz/sitemap.xml
